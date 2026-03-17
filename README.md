@@ -1,8 +1,8 @@
+<img width="226" height="77" alt="codingText" src="https://github.com/user-attachments/assets/810ed9b2-930b-44e7-b5dc-b7ff662fd39b" />
 ### CodingText - LLMService
 [<img src="https://img.shields.io/badge/프로젝트 기간-2024.09 ~ 2024.12-green?style=flat&logo=&logoColor=white" />]()
 
 ### 배포 URL : [CodingText.com](http://172.16.211.54/)
-
 </div> 
 
 ## 📝 소개
@@ -20,7 +20,7 @@ CDC 파이프라인을 설계하여 질의 응답 데이터를 벡터화 하여 
 <br />
 
 ### 화면 구성
-|블로그 Home 화면|
+|코딩 테스트|
 |:---:|
 |<img src="#" width="450"/>|
 
