@@ -54,39 +54,6 @@ CDC 파이프라인을 설계하여 **질의 응답 데이터를 벡터화 하�
 <br>
 <br>
 
-## ⚙ 기술 스택
-### Back-end
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/ac4f3683-3a0c-4f50-a039-da804342aa4b?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Mysql.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    
-</div>
-<br>
-<br>
-
-### Infra
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/957c5ebe-90b4-4962-b159-eb86d233389c" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Docker.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Jenkins.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-</div>
-<br>
-<br>
-
-### Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/787d2d33-017c-488d-b016-193c3cf3dce0?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Github.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Notion.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Postman.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-    <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Swagger.png?raw=true" style="width: 80px; height: 80px; object-fit: contain;">
-</div>
-<br>
-<br>
-
 ## 🛠️ 프로젝트 아키텍쳐
 <img src="https://github.com/user-attachments/assets/7aa2a484-ec80-40f0-9415-62f56801c148" width="800">
 
